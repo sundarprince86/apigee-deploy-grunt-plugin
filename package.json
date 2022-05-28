@@ -48,7 +48,7 @@
     "load-grunt-tasks": "^0.6.0",
     "request": "^2.37.0",
     "time-grunt": "^1.0.0",
-    "cfonts": "0.0.13",
+    "cfonts": "3.0.0",
     "grunt-prompt": "^1.3.0",
     "grunt-apigee-import-api-bundle": "^0.0.1"
   },
